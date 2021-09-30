@@ -2,6 +2,20 @@
     "name": "maisum-xcode-theme-dark",
     "displayName": "Maisum Xcode Theme Dark",
     "description": "Xcode Light & Dark themes for VSCode",
+    "version":"1.0.0",
+    "publisher": "MaisUmDev",
+    "repository": {
+        "type":"git",
+        "url": "https://github.com/maisumdev/maisum-xcode-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "xcode",
+        "maisumdev",
+        "maisum-xcode-theme",
+        "xcode theme"
+    ],
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
