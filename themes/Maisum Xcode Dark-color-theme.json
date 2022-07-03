@@ -1,7 +1,6 @@
 {
 	"name": "Maisum Xcode Dark",
   "type": "dark",
-  "icon": "./Assets/mais-um-dev-logo.png",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
@@ -2000,7 +1999,7 @@
     "editorGroupHeader.tabsBackground": "#23252b",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#233338",
-    "tab.activeBackground": "#f74b9c",
+    "tab.activeBackground": "#5e1537",
     "tab.activeBorder": "#00000000",
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#23252b",
