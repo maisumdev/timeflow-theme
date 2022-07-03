@@ -1,4 +1,11 @@
 # +1 XCODE DARK
+
+### 🖥 Example:
 ![](images/background.jpeg)
 
-## These theme was made inspired on xcode dark theme colors. Hope you enjoy 💜🚀
+### 🎨 Colors:
+![](images/colors.png)
+
+> This theme was inspired by the colors of xcode, I hope you like it! 💜🚀🤘
+
+👉  **follow me** [@leongdev](https://www.instagram.com/leongdev/)
