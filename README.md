@@ -1,4 +1,4 @@
-# Xcode Theme 
-![](https://cdn.discordapp.com/attachments/799976470893953034/892971350686302268/unknown.png)
+# +1 XCODE DARK
+![](Assets/background.jpeg)
 
-## This is a simple xcode dark theme for vscode
+## These theme was made inspired on xcode dark theme colors. Hope you enjoy 💜🚀

@@ -1,6 +1,7 @@
 {
 	"name": "Maisum Xcode Dark",
-	"type": "dark",
+  "type": "dark",
+  "icon": "./Assets/mais-um-dev-logo.png",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
@@ -10,7 +11,7 @@
       "foreground": "#d0bf69"
     },
     "variable.defaultLibrary": {
-      "foreground": "#8466aa"
+      "foreground": "#a167e6"
     }
   },
   "tokenColors": [
@@ -172,7 +173,7 @@
       "name": "js/ts punctuation separator key-value",
       "scope": "punctuation.separator.key-value",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#d0bf69"
       }
     },
     {
@@ -356,7 +357,7 @@
         "keyword.operator.expression.keyof"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#fc5fa3"
       }
     },
     {
@@ -545,7 +546,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#41a1c0"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -559,7 +560,7 @@
       "name": "Language variables",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#fc5fa3"
+        "foreground": "#a167e6"
       }
     },
     {
@@ -613,7 +614,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#fc5fa3"
+        "foreground": "#a167e6"
       }
     },
     {
@@ -726,15 +727,8 @@
       }
     },
     {
-      "name": "Meta name",
+      "name": "Meta tag",
       "scope": "meta.tag",
-      "settings": {
-        "foreground": "#fff"
-      }
-    }, 
-		{
-      "name": "Tag name",
-      "scope": "empty.name.tag",
       "settings": {
         "foreground": "#d0bf69"
       }
@@ -792,13 +786,14 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#D0A8FF"
+        "foreground": "#d0bf69"
       }
     },
     {
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
+        "fontStyle": "normal",
         "foreground": "#5dd8ff"
       }
     },
@@ -806,7 +801,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "normal",
         "foreground": "#d0bf69"
       }
     },
@@ -891,7 +886,7 @@
       "name": "[VSCODE-CUSTOM] Markdown heading setext",
       "scope": "markup.heading.setext",
       "settings": {
-        "foreground": "#0"
+        "foreground": "#d0bf69"
       }
     },
     {
@@ -988,7 +983,7 @@
       "name": "Embedded",
       "scope": "punctuation.section.embedded.begin,punctuation.section.embedded.end",
       "settings": {
-        "foreground": "#41a1c0"
+        "foreground": "#fc5fa3"
       }
     },
     {
@@ -1442,7 +1437,7 @@
         "keyword.operator.address.go"
       ],
       "settings": {
-        "foreground": "#00"
+        "foreground": "#fc5fa3"
       }
     },
     {
@@ -1891,7 +1886,7 @@
     "statusBar.noFolderForeground": "#ffffff",
     "statusBarItem.remoteBackground": "#fc5fa3",
     "statusBarItem.remoteForeground": "#ffffff",
-    "titleBar.activeBackground": "#1f1f24",
+    "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveBackground": "#3c3c3c99",
     "titleBar.inactiveForeground": "#cccccc99",
@@ -1961,7 +1956,7 @@
     "editorInfo.foreground": "#5482ff",
     "editorInfo.background": "#4490BF00",
     "editorInfo.border": "#4490BF00",
-    "editorGutter.background": "#1f1f24",
+    "editorGutter.background": "#1e1e1e",
     "editorGutter.modifiedBackground": "#41a1c0",
     "editorGutter.addedBackground": "#67b7a4",
     "editorGutter.deletedBackground": "#fc6a5d",
@@ -2005,7 +2000,7 @@
     "editorGroupHeader.tabsBackground": "#23252b",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#233338",
-    "tab.activeBackground": "#1f1f24",
+    "tab.activeBackground": "#f74b9c",
     "tab.activeBorder": "#00000000",
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#23252b",
