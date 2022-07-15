@@ -6,8 +6,7 @@
     "publisher": "MaisUmDev",
     "icon": "images/mais-um-dev-logo.png",
     "scripts": {
-        "build": "vsce package",
-        "publish": "vsce publish" 
+        "build": "vsce package"
     },
     "repository": {
         "type":"git",
