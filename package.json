@@ -1,13 +1,13 @@
 {
     "name": "maisum-xcode-theme-dark",
-    "version": "0.0.4",
+    "version": "0.0.5", 
     "displayName": "Maisum Xcode Theme Dark",
     "description": "Xcode Light & Dark themes for VSCode",
     "publisher": "MaisUmDev",
     "icon": "images/mais-um-dev-logo.png",
     "scripts": {
-        "package": "vsce package",
-        "publish": "vsce publish"
+        "build": "vsce package",
+        "publish": "vsce publish" 
     },
     "repository": {
         "type":"git",
@@ -36,5 +36,8 @@
                 "path": "./themes/Maisum Xcode Dark-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^2.9.0"
     }
 }
