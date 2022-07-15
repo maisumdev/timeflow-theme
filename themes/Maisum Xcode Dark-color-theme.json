@@ -4,9 +4,7 @@
   "colors": {
     "debugIcon.breakpointCurrentStackframeForeground": "#007aff",
     "debugIcon.breakpointForeground": "#007aff",
-
     "editorGroupHeader.noTabsBackground": "#383a3d",
-
     "editorOverviewRuler.addedForeground": "#4f82ce",
     "editorOverviewRuler.deletedForeground": "#4f82ce",
     "editorOverviewRuler.errorForeground": "#e21514",
@@ -42,9 +40,7 @@
     "statusBar.border": "#000000",
     "statusBar.debuggingBorder": "#000000",
     "statusBar.noFolderBorder": "#000000",
-    "textLink.activeForeground": "#6699ff",
-
-    
+    "textLink.activeForeground": "#6699ff",    
     "merge.currentHeaderBackground": "#8dffe4",
     "merge.currentContentBackground": "#67b7a4",
     "merge.incomingHeaderBackground": "#41a1c0",
@@ -79,7 +75,6 @@
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
     "debugExceptionWidget.border": "#474747",
-    
     "selection.background": "#36363f",
     "scrollbar.shadow": "#000000",
     "activityBar.foreground": "#fc5fa3",
