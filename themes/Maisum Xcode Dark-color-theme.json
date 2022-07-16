@@ -267,7 +267,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#A0D07D"
+        "foreground": "#424242"
       }
     },
     {
