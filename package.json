@@ -1,7 +1,7 @@
 {
     "name": "maisum-xcode-theme-dark",
     "version": "0.0.5", 
-    "displayName": "Maisum Xcode Theme Dark",
+    "displayName": "LeonGDev Xcode Theme Dark",
     "description": "Xcode Light & Dark themes for VSCode",
     "publisher": "MaisUmDev",
     "icon": "images/mais-um-dev-logo.png",
@@ -30,7 +30,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Maisum Xcode Dark",
+                "label": "LeonGDev Xcode Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Maisum Xcode Dark-color-theme.json"
             }

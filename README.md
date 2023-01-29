@@ -1,4 +1,4 @@
-# +1 XCODE DARK
+# LEONGDEV XCODE DARK
 
 ### 🖥 Example:
 ![](images/background.jpeg)
@@ -8,4 +8,4 @@
 
 > This theme was inspired by the colors of xcode, I hope you like it! 💜🚀🤘
 
-👉  **follow me** [@leongdev](https://www.instagram.com/leongdev/)
+👉  **follow me** [@leong.dev](https://leongdev.com/)
