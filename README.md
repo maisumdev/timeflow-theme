@@ -1,11 +1,11 @@
-# LEONGDEV XCODE DARK
+# TIME FLOW
 
 ### 🖥 Example:
-![](images/background.jpeg)
+![](images/background.png)
 
 ### 🎨 Colors:
 ![](images/colors.png)
 
-> This theme was inspired by the colors of xcode, I hope you like it! 💜🚀🤘
+> Thank you for check out this theme, hoje you enjoy 💜🚀🤘
 
-👉  **follow me** [@leong.dev](https://leongdev.com/)
+👉  **follow me** [@leongdev](https://leongdev.com/)
