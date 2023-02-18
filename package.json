@@ -1,26 +1,26 @@
 {
-    "name": "maisum-xcode-theme-dark",
-    "version": "0.0.7", 
+    "name": "timflow",
+    "version": "0.0.8",
     "displayName": "LeonGDev Xcode Theme Dark",
     "description": "Xcode Light & Dark themes for VSCode",
     "publisher": "MaisUmDev",
     "icon": "images/mais-um-dev-logo.png",
     "scripts": {
-        "build": "vsce package"
+        "build": "vsce package",
+        "login": "vsce login",
+        "publish": "vsce publish"
     },
     "repository": {
-        "type":"git",
-        "url": "https://github.com/maisumdev/maisum-xcode-theme"
+        "type": "git",
+        "url": "https://github.com/maisumdev/timeflow-theme"
     },
     "keywords": [
         "theme",
         "dark theme",
-        "xcode",
-        "maisumdev",
-        "maisum-xcode-theme",
-        "xcode theme"
+        "Time Flow",
+        "timeflow",
+        "time dark"
     ],
- 
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -30,9 +30,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "LeonGDev Xcode Dark",
+                "label": "TimeFlow",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Maisum Xcode Dark-color-theme.json"
+                "path": "./themes/timeflow.json"
             }
         ]
     },
