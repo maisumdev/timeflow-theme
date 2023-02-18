@@ -1,10 +1,10 @@
 {
-    "name": "timflow",
-    "version": "0.0.8",
+    "name": "maisum-xcode-theme-dark",
+    "version": "0.1.1",
     "displayName": "Time Flow",
     "description": "Time Flow app theme.",
-    "publisher": "@leongdev",
-    "icon": "images/timeflowlogo",
+    "publisher": "maisumdev",
+    "icon": "images/timeflowlogo.png",
     "scripts": {
         "build": "vsce package",
         "login": "vsce login",
