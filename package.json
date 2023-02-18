@@ -1,10 +1,10 @@
 {
     "name": "timflow",
     "version": "0.0.8",
-    "displayName": "LeonGDev Xcode Theme Dark",
-    "description": "Xcode Light & Dark themes for VSCode",
-    "publisher": "MaisUmDev",
-    "icon": "images/mais-um-dev-logo.png",
+    "displayName": "Time Flow",
+    "description": "Time Flow app theme.",
+    "publisher": "@leongdev",
+    "icon": "images/timeflowlogo",
     "scripts": {
         "build": "vsce package",
         "login": "vsce login",
